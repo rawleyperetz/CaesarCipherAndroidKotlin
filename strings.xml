@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RawCipher</string>
+    <string name="welcome_rawley_how_may_i_help_you">Welcome Rawley! How may I help you?</string>
+    <string name="first_encrypt">Enc or Dec</string>
+    <string name="first_decrypt">Decryption</string>
+    <string name="enter_text">Enter Text …</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="loading">Loading…</string>
+    <string name="enter_the_key">Enter the Key</string>
+    <string name="dec_decrypt">Decrypt</string>
+    <string name="brute_force">Brute Force</string>
+</resources>
